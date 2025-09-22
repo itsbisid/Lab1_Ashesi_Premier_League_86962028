@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FootballPlayer {
+public class PlayerSelection {
     public static void main(String[] args) {
         // Task 1
         Scanner scanner = new Scanner(System.in);
